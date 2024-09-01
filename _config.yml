@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Cassandra Luca"
-  pronouns         : # example: "she/her"  
-  bio              : #"I'm a PhD student in the Department of English at Duke University."
+  pronouns         :  "she/her"  
+  bio              : "PhD student"
   location         : #"Earth"
   employer         : "Duke University"
   uri              : # URL
